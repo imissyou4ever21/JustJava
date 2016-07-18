@@ -26,7 +26,8 @@
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
             android:text="Toppings"
-            android:textAllCaps="true" />
+            android:textAllCaps="true"
+         />
 
         <CheckBox
             android:id="@+id/Wipped_cream_checkbox"
